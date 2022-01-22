@@ -1,0 +1,11 @@
+.addUserFields{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.userInput{
+    width: 250px;
+    
+}
+
